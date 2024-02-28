@@ -1,3 +1,3 @@
-module 2-values
+module values
 
 go 1.22

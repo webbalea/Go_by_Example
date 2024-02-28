@@ -1,3 +1,3 @@
-module Go_by_Example
+module hello-world
 
 go 1.22
